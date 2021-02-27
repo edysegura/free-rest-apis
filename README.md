@@ -1,0 +1,7 @@
+# Free REST APIs
+
+This is a list of free REST APIs that you can use right away!
+
+## Instructions
+
+You can use the REST Client VSCode extension in order to request these APIs.
