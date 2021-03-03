@@ -1,0 +1,3 @@
+GET https://community-open-weather-map.p.rapidapi.com/weather?q=Pouso%20Alegre&lang=pt&units=metric
+x-rapidapi-key: your-key
+x-rapidapi-host: community-open-weather-map.p.rapidapi.com
