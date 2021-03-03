@@ -1,0 +1,5 @@
+GET https://viacep.com.br/ws/37558140/json/
+
+###
+
+GET https://viacep.com.br/ws/37540000/json/
