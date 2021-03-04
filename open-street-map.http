@@ -1,8 +1,8 @@
-GET https://nominatim.openstreetmap.org/search.php?q=pouso%20alegre&polygon_geojson=1&countrycodes=br&format=jsonv2
+GET https://nominatim.openstreetmap.org/search.php?city=Pouso Alegre&state=MG&country=Brazil&format=jsonv2
 
 ###
 
-GET https://nominatim.openstreetmap.org/search.php?q=santa%20rita%20do%20sapuca%C3%AD&polygon_geojson=1&countrycodes=br&format=jsonv2
+GET https://nominatim.openstreetmap.org/search.php?city=Santa Rita do Sapucaí&state=MG&country=Brazil&format=jsonv2
 
 ###
 
