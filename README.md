@@ -12,3 +12,4 @@ You can use the REST Client VSCode extension in order to request these APIs.
 - [Pokemon API](https://pokeapi.co)
 - [Star Wars API](https://swapi.dev/)
 - [Open Street Map](https://nominatim.org/release-docs/develop/)
+- [Minha Receita](https://docs.minhareceita.org/cliente/)
