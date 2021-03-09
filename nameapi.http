@@ -1,0 +1,18 @@
+POST /rest/v5.0/parser/personnameparser?apiKey=<your-key> HTTP/1.1
+Host: rc50-api.nameapi.org
+Content-Type: application/json
+Content-Length: 281
+
+{
+    "inputPerson": {
+        "type": "NaturalInputPerson",
+        "personName": {
+            "nameFields": [
+                {
+                    "string": "Davi Segura",
+                    "fieldType": "FULLNAME"
+                }
+            ]
+        }
+    }
+}
