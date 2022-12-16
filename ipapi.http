@@ -1,0 +1,5 @@
+GET https://ipapi.co/json/
+
+###
+
+GET https://ipapi.co/8.8.8.8/json/
