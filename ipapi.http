@@ -2,4 +2,12 @@ GET https://ipapi.co/json/
 
 ###
 
+GET https://ipapi.co/currency/
+
+###
+
 GET https://ipapi.co/8.8.8.8/json/
+
+###
+
+GET https://ipapi.co/8.8.8.8/currency/
