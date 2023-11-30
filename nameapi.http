@@ -4,15 +4,15 @@ Content-Type: application/json
 Content-Length: 281
 
 {
-    "inputPerson": {
-        "type": "NaturalInputPerson",
-        "personName": {
-            "nameFields": [
-                {
-                    "string": "Renê Martins",
-                    "fieldType": "FULLNAME"
-                }
-            ]
+  "inputPerson": {
+    "type": "NaturalInputPerson",
+    "personName": {
+      "nameFields": [
+        {
+          "string": "Renê Martins",
+          "fieldType": "FULLNAME"
         }
+      ]
     }
+  }
 }
