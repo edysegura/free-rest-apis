@@ -6,4 +6,12 @@ GET https://viacep.com.br/ws/37550199/json/
 
 ###
 
-GET https://viacep.com.br/ws/37540000/json/
+GET https://viacep.com.br/ws/37537144/json/
+
+###
+
+GET https://viacep.com.br/ws/37537208/json/
+
+###
+
+GET https://viacep.com.br/ws/37537138/json/
