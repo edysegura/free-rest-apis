@@ -1,10 +1,11 @@
 ### Variables
 @host = pokeapi.co
 
+# @name pokeResponse
 GET https://{{host}}/api/v2/pokemon
     ?offset=0
-    &limit=151
+    &limit=3
 
 ###
 
-GET https://{{host}}/api/v2/pokemon/1/
+GET https://{{host}}/api/v2/pokemon/{{pokeResponse.response.body.$.results[1].name}}
