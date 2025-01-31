@@ -9,3 +9,7 @@ GET {{baseUrl}}
 ###
 
 GET {{baseUrl}}/{{pokeResponse.response.body.$.results[1].name}}
+
+###
+
+GET {{pokeResponse.response.body.$.next}}
