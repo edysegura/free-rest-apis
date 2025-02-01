@@ -1,17 +1,19 @@
-GET https://viacep.com.br/ws/37558140/json/
+@baseUrl = https://viacep.com.br/ws
+
+GET {{baseUrl}}/37558140/json/
 
 ###
 
-GET https://viacep.com.br/ws/37550199/json/
+GET {{baseUrl}}/37550199/json/
 
 ###
 
-GET https://viacep.com.br/ws/37537144/json/
+GET {{baseUrl}}/37537144/json/
 
 ###
 
-GET https://viacep.com.br/ws/37537208/json/
+GET {{baseUrl}}/37537208/json/
 
 ###
 
-GET https://viacep.com.br/ws/37537138/json/
+GET {{baseUrl}}/37537138/json/
