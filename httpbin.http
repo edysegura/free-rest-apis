@@ -1,4 +1,7 @@
-POST https://httpbin.org/post
+### Variables
+@baseUrl = https://httpbin.org
+
+POST {{baseUrl}}/post
 Content-Type: application/json
 
 {
@@ -10,4 +13,4 @@ Content-Type: application/json
 
 ###
 
-GET https://httpbin.org/uuid
+GET {{baseUrl}}/uuid
