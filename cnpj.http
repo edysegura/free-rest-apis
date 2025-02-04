@@ -1,5 +1,8 @@
-GET https://minhareceita.org/07944310000103
+### Variables
+@CNPJ = 07944310000103
+
+GET https://minhareceita.org/{{CNPJ}}
 
 ###
 
-GET https://www.receitaws.com.br/v1/cnpj/07944310000103
+GET https://www.receitaws.com.br/v1/cnpj/{{CNPJ}}
