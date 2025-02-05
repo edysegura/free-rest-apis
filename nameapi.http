@@ -1,7 +1,6 @@
 POST /rest/v5.3/parser/personnameparser?apiKey={{$dotenv NAME_API_KEY}}
 Host: api.nameapi.org
 Content-Type: application/json
-Content-Length: 281
 
 {
   "inputPerson": {
