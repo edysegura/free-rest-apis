@@ -1,5 +1,7 @@
-GET https://swapi.dev/api/people/1
+@baseUrl = https://swapi.dev/api
+
+GET {{baseUrl}}/people/1
 
 ###
 
-GET https://swapi.dev/api/planets/1
+GET {{baseUrl}}/planets/1
