@@ -1,0 +1,16 @@
+### Variables
+@baseUrl = https://hadiru.free.beeceptor.com
+
+POST {{baseUrl}}/post
+Content-Type: application/json
+
+{
+  "id": "{{$guid}}",
+  "name": "Edy Segura",
+  "description": "This is just a test payload!",
+  "createdAt": "{{$timestamp}}"
+}
+
+###
+
+GET {{baseUrl}}/todos
