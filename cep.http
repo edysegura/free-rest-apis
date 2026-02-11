@@ -1,0 +1,11 @@
+@cep = 01310100
+
+GET https://viacep.com.br/ws/{{cep}}/json/
+
+###
+
+GET https://cep.awesomeapi.com.br/json/{{cep}}
+
+###
+
+GET https://brasilapi.com.br/api/cep/v1/{{cep}}
