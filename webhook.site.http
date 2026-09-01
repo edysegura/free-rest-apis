@@ -12,3 +12,7 @@ Content-Type: application/json
   "description": "This is just a test payload!",
   "createdAt": "{{$timestamp}}"
 }
+
+###
+
+GET {{baseUrl}}/46327c63-3e53-4751-9aad-7c3812d172d7
