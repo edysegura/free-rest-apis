@@ -1,0 +1,14 @@
+# Go to https://webhook.site
+
+### Variables
+@baseUrl = https://webhook.site
+
+POST {{baseUrl}}/46327c63-3e53-4751-9aad-7c3812d172d7
+Content-Type: application/json
+
+{
+  "id": "{{$guid}}",
+  "name": "Edy Segura",
+  "description": "This is just a test payload!",
+  "createdAt": "{{$timestamp}}"
+}
