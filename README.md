@@ -13,3 +13,4 @@ You can use the REST Client VSCode extension in order to request these APIs.
 - [Star Wars API](https://swapi.dev/)
 - [Open Street Map](https://nominatim.org/release-docs/develop/)
 - [CNPJ](https://docs.minhareceita.org/cliente/)
+- [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) — daily experience; see `bucketlist.http`
