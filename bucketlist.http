@@ -1,0 +1,7 @@
+### Daily experience (default: Dutch, Netherlands scope)
+GET https://bucketlist.nl/api/droom-van-de-dag
+Accept: application/json
+
+### OpenAPI documentation
+GET https://bucketlist.nl/brand/droom-van-de-dag.openapi.json
+Accept: application/json
